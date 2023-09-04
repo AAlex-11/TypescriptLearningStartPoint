@@ -1,0 +1,7 @@
+https://github.com/privatenumber/ts-runtime-comparison
+
+The main difference is that tsx transpile all the file according to your tsconfig.
+Instead, ts-node will start from the entry file and transpile the file step by step through the tree based on the import/export.
+
+https://github.com/TypeStrong/ts-node
+https://github.com/esbuild-kit/tsx

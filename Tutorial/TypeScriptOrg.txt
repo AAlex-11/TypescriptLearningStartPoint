@@ -1,0 +1,73 @@
+Handbook
+https://www.typescriptlang.org/docs/handbook/declaration-files/introduction.html
+
+4 page summary
+https://www.typescriptlang.org/cheatsheets
+
+JavaScript Essentials
+
+    Hello World             https://www.typescriptlang.org/play/?target=1&q=428#example/hello-world
+    Objects and Arrays      https://www.typescriptlang.org/play/?strict=false&q=390#example/objects-and-arrays
+    Functions               https://www.typescriptlang.org/play/?noImplicitAny=false&q=288#example/functions
+    Code Flow               https://www.typescriptlang.org/play/?strictNullChecks=true&q=401#example/code-flow
+
+Functions with JavaScript
+
+    Generic Functions       https://www.typescriptlang.org/play/?q=252#example/generic-functions
+    Typing Functions        https://www.typescriptlang.org/play/?q=345#example/typing-functions
+    Function Chaining       https://www.typescriptlang.org/play/?esModuleInterop=true&q=498#example/function-chaining
+
+Working With Classes
+
+    Classes 101             https://www.typescriptlang.org/play/?q=413#example/classes-101
+    This                    https://www.typescriptlang.org/play/?q=186#example/this
+    Generic Classes         https://www.typescriptlang.org/play/?q=322#example/generic-classes
+    Mixins                  https://www.typescriptlang.org/play/?q=422#example/mixins
+
+Modern JavaScript
+
+    Async Await             https://www.typescriptlang.org/play/?q=288#example/async-await
+    Immutability            https://www.typescriptlang.org/play/?q=195#example/immutability
+    Import Export           https://www.typescriptlang.org/play/?q=251#example/import-export
+    JSDoc Support           https://www.typescriptlang.org/play/?useJavaScript=trueq=174#example/jsdoc-support
+
+External APIs
+
+    TypeScript with Web     https://www.typescriptlang.org/play/?useJavaScript=trueq=207#example/typescript-with-web
+    TypeScript with React   https://www.typescriptlang.org/play/?jsx=2&esModuleInterop=true&q=250#example/typescript-with-react
+    TypeScript with Deno    https://www.typescriptlang.org/play/?q=41#example/typescript-with-deno
+    TypeScript with Node    https://www.typescriptlang.org/play/?useJavaScript=trueq=437#example/typescript-with-node
+    TypeScript with WebGL   https://www.typescriptlang.org/play/?useJavaScript=trueq=250#example/typescript-with-webgl
+
+Primitives
+
+    Any                     https://www.typescriptlang.org/play/?q=338#example/any
+    Literals                https://www.typescriptlang.org/play/?q=438#example/literals
+    Union and Intersection Types  https://www.typescriptlang.org/play/?q=228#example/union-and-intersection-types
+    Unknown and Never       https://www.typescriptlang.org/play/?q=91#example/unknown-and-never
+ 
+Type Primitives
+
+    Tuples                  https://www.typescriptlang.org/play/?q=509#example/tuples
+    Built-in Utility Types  https://www.typescriptlang.org/play/?strictNullChecks=true&q=239#example/built-in-utility-types
+    Nullable Types          https://www.typescriptlang.org/play/?strictNullChecks=false&q=384#example/nullable-types
+
+Meta-Types
+
+    Conditional Types       https://www.typescriptlang.org/play/?q=68#example/conditional-types
+    Discriminate Types      https://www.typescriptlang.org/play/?q=449#example/discriminate-types
+    Indexed Types           https://www.typescriptlang.org/play/?q=233#example/indexed-types
+    Mapped Types            https://www.typescriptlang.org/play/?q=472#example/mapped-types
+
+Language
+
+    Soundness              https://www.typescriptlang.org/play/?strictFunctionTypes=false&q=198#example/soundness 
+    Structural Typing      https://www.typescriptlang.org/play/?q=324#example/structural-typing
+    Type Guards            https://www.typescriptlang.org/play/?q=219#example/type-guards
+    Type Widening and Narrowing  https://www.typescriptlang.org/play/?q=404#example/type-widening-and-narrowing
+
+Language Extensions
+
+    Enums                 https://www.typescriptlang.org/play/?q=184#example/enums
+    Nominal Typing        https://www.typescriptlang.org/play/?q=429#example/nominal-typing
+    Types vs Interfaces   https://www.typescriptlang.org/play/?q=171#example/types-vs-interfaces  

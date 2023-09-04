@@ -1,0 +1,7 @@
+https://marketplace.visualstudio.com/items?itemName=kakumei.ts-debug
+
+run from launch.json
+/home/admin/Downloads/node-v16.19.0-linux-x64/bin/node -r ts-node/register HelloWorld.ts
+
+run console
+npx ts-node HelloWorld
